@@ -1,6 +1,6 @@
 ## ARM EDUCATION
 
-## END USER LICENSE AGREEMENT FOR TEACHING AND LEARNING CONTENT
+## END USER LICENSE AGREEMENT FOR TEACHING AND LEARNING CONTENT  
 
 1. These terms are displayed for you to read prior to use of the teaching and learning content and any related documentation and materials (“Materials”) made available to you by Arm Limited (“Arm”). If you choose not to agree with these terms, do not use or access the Materials.
 
